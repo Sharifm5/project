@@ -152,6 +152,5 @@ No modules.
 | <a name="load_balancer_endpoint"></a> [load_balancer_endpoint](#output\_load_balancer_endpoint) | URL for hosting application|
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
-## Authors
 
-Module is maintained.
+
